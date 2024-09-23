@@ -1,4 +1,4 @@
-[VIP — Surrogate Modeling for Urban Regeneration](https://www.vip.gatech.edu/teams/vyh)
+[GT Sign Up Website — Surrogate Modeling for Urban Regeneration](https://www.vip.gatech.edu/teams/vyh)
 
 [Team Wiki](https://vip-smur.github.io/wiki/)
 
