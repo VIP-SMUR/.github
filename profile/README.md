@@ -6,6 +6,6 @@ Join our team and make a lasting impact on urban environments!
 
 # 📄 Project Wiki
 
-[Link](https://vip-smur.github.io/)
+[Link to current and previous projects](https://vip-smur.github.io/projects/)
 
 
