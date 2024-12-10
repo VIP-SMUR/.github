@@ -9,9 +9,9 @@ Join our team and make a lasting impact on urban environments!
 
 ## 📄 Project Wiki
 
-| 📁 &nbsp; __Current and previous projects__                             | 
-| --------------------------------------------------------------------------------- | 
-| → &nbsp; [Learn more](https://vip-smur.github.io/projects/)                              | 
+| 📁 &nbsp; __Current and previous projects__                   | 
+| ------------------------------------------------------------- | 
+| → &nbsp; [Learn more](https://vip-smur.github.io/projects/)   | 
 
 
 ---
