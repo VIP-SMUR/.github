@@ -13,5 +13,3 @@ Join our team and make a lasting impact on urban environments!
 | ------------------------------------------------------------- | 
 | → &nbsp; [Learn more](https://vip-smur.github.io/projects/)   | 
 
-
----
