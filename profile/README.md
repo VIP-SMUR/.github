@@ -1,4 +1,4 @@
-# 🤝 Get Involved
+## 🤝 Get Involved
 
 Join our team and make a lasting impact on urban environments!
  
@@ -6,7 +6,7 @@ Join our team and make a lasting impact on urban environments!
 - [Returning Students](https://vip.gatech.edu/request-a-permit/)
 - [Contact Us](mailto:patrick.kastner@gatech.edu)
 
-# 📄 Project Wiki
+## 📄 Project Wiki
 
 | 📁 &nbsp; __Current and previous projects__                   | 
 | ------------------------------------------------------------- | 
